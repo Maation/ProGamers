@@ -1,4 +1,4 @@
 TropicalParadise
 ==============================================
-*REPO(github.com/Maation/ProGamers/)
+*REPO(https://github.com/Maation/ProGamers/)
 *LIVE(https://maation.github.io/ProGamers/)
